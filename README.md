@@ -11,7 +11,7 @@
 💭 Currently learning about Web Development and Graphic Design!<br/>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Achmad- M&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+ <!-- ![](https://github-readme-stats.vercel.app/api?username=Achmad- M&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Achmad-M&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Achmad-M&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
