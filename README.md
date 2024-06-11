@@ -1,4 +1,7 @@
 <!-- Level 3: Add custom code -->
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@madmaull) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/nbody) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@madmaull) 
+
 
 # 👋 Hi, I'm Achmad!
 👨🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
@@ -7,8 +10,10 @@
 <!-- 🌷 #learninginpublic in my [digital garden](https://magdelinehuang.com/)<br/> -->
 💭 Currently learning about Web Development and Graphic Design!<br/>
 
-<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=xsol05&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Achmad-M&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Achmad-M&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Achmad-M&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
@@ -34,6 +39,19 @@
 <!-- ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) 
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) -->
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Achmad-M&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+### 😂 Random Dev Meme
+<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=Achmad-M&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- # 💻 Featured YouTube Videos -->
 <!-- YouTube video cards from https://github.com/DenverCoder1/github-readme-youtube-cards -->
@@ -51,3 +69,7 @@
 
 
 <!-- P.S. If you want to make a GitHub profile README like this, check out this [tutorial](https://youtu.be/DWFs6aqknqw?si=oX-In0gOUUZiqINh)! 😊 -->
+
+
+
+
